@@ -1,22 +1,17 @@
-						#1. Decker				
-					#2. Grafana
-				#3. InfluxDB
-			#4. Mosquitto
-Node-RED
-Portainer-CE
+# Software Stack
 
+## Core Components
 
+1. **Decker**
+2. **Grafana**
+3. **InfluxDB**
+4. **Mosquitto**
 
+## Additional Tools
 
+- **Node-RED**
+- **Portainer-CE**
 
+## Bonus
 
-
-
-
-
-
-
-
-
-
-bonus: GitHub
+- **GitHub**
